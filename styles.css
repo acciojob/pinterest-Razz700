@@ -13,3 +13,6 @@ button{
 	border-radius:2px;
 	width:150px;
 }
+img{
+	height:400px; width:900px; object-fit:cover;
+}
